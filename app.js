@@ -31,12 +31,11 @@ es['input'].onkeyup = function() {
 
       if(content && content.hits.length) {
         var list = content.hits.map(function(e,i,a) {
-           //return "<li>" + e._highlightResult.name.value + " - " + e.rating + '</li>';
-           return "<li>" + '<b>' + e.area + '</b>' + " - " + '<i>' + e._highlightResult.name.value + '</i>' + '</li>';
+           return "<li>" + e._highlightResult.name.value + '</i>' + '</li>';
         }).join('');
-        es['output'].innerHTML = "<h5>Completed in " + content.processingTimeMS + "ms</h5><ul>" + list + '</ul>';
+        es['output'].innerHTML = "<h5><b>Completed in " + content.processingTimeMS + "ms</b></h5><ul>" + list + '</ul>';
       } else {
-        es['output'].innerHTML = "<h5>No matches found</h5>";
+        es['output'].innerHTML = "<h5><b>No matches found</b></h5>";
       }
     })
   } else {
