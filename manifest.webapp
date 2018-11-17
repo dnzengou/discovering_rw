@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Knowledge Management Platform",
+  "launch_path": "/index.html",
+  "description": "smart media search",
+  "developer": {
+    "name": "desireyavro",
+    "url": "https://desireyavro.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Knowledge Management Platfor",
+      "description": "Progressive web app that Searches for text in media taken during before and during UltraHack 2017. Click on the video link to watch it down the page"
+    }
+  }
+}

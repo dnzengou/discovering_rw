@@ -1,0 +1,13 @@
+{
+    "name": "Knowledge Management Platform",
+    "short_name": "km",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#e5e5e5",
+    "background_color": "#fff",
+    "icons": [{
+        "src": "http://nirda.gov.rw/wp-content/uploads/2018/07/cropped-NIRDA-logo-blu-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+}
