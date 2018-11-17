@@ -1,14 +1,12 @@
-html {
-  background: url('rwanda-landscape_2.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 body {
     padding: 50px;
     line-height: 150%;
+      background: url('rwanda-landscape_2.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
 }
 
 .media-object {
