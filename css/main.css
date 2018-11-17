@@ -7,6 +7,7 @@ body {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+      text-decoration-color:
 }
 
 .media-object {
@@ -143,17 +144,21 @@ outline: none;
 }
 em {
 background-color: $red;
+color: #fff;
 }
 ul {
 list-style-type: none;
 border-bottom-width: 0px;
 padding:0px;
+color: #C1D9DD;
 }
 li {
 padding: 10px;
 transition: all 5s;
 transition-timing-function: ease-in-out;
+color: #C1D9DD;
 }
 li:hover {
+/*background-color: Tomato;*/
 background-color: Tomato;
 }
