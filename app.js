@@ -17,8 +17,8 @@ input.onblur = function() {
 }
 
 // Algolia login
-var client = algoliasearch("N637HXAMBS", "e0f889ef9198d699ed7577646820ea12");
-var index = client.initIndex('km-nirda_local-internat');
+var client = algoliasearch("KC17SSROI6", "6fabfd6313a9783bf11ce9005ceadfc3");
+var index = client.initIndex('getstarted_actors');
 
 // Search
 es['input'].onkeyup = function() {
