@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Knowledge Management Platform",
+  "name": "DiscoveringRW",
   "launch_path": "/index.html",
-  "description": "smart media search",
+  "description": "Search through experiences, all in one place. Explore. Discover.",
   "developer": {
     "name": "desireyavro",
     "url": "https://desireyavro.com"
@@ -15,8 +15,8 @@
   },
   "locales": {
     "en": {
-      "name": "Knowledge Management Platfor",
-      "description": "Progressive web app that Searches for text in media taken during before and during UltraHack 2017. Click on the video link to watch it down the page"
+      "name": "DiscoveringRW",
+      "description": "Search through experiences, all in one place. Explore. Discover."
     }
   }
 }

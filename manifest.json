@@ -1,6 +1,6 @@
 {
-    "name": "Knowledge Management Platform",
-    "short_name": "km",
+    "name": "DiscoveringRW",
+    "short_name": "DRW",
     "display": "standalone",
     "start_url": "/",
     "theme_color": "#e5e5e5",
