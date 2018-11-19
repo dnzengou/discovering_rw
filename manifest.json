@@ -6,8 +6,8 @@
     "theme_color": "#e5e5e5",
     "background_color": "#fff",
     "icons": [{
-        "src": "http://nirda.gov.rw/wp-content/uploads/2018/07/cropped-NIRDA-logo-blu-192x192.png",
-        "sizes": "192x192",
+        "src": "img/favicons/apple-touch-icon.png",
+        "sizes": "180x180",
         "type": "image/png"
     }]
 }
